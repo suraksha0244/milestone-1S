@@ -1,0 +1,17 @@
+//css
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333333;
+  background-color: #cc4545;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #117be5;
+  color: white;
+  padding: 20px;
+}
+

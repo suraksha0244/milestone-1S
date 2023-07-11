@@ -1,0 +1,12 @@
+.home-container {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQKJrT1yDmDH9KFW9DPiV2z-gYrAqUN7jPszaXkArz&s");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:black;
+    padding: 20px;
+  }
